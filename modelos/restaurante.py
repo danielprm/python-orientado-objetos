@@ -5,7 +5,7 @@ class Restaurante:
 
 restaurante_praca = Restaurante()
 restaurante_praca.nome = 'praca'
-restaurante_praca.categoria = 'gourmet'
+restaurante_praca.categoria = 'Italiana'
 
 restaurante_pizza = Restaurante()
 
